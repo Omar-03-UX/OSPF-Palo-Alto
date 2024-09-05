@@ -26,7 +26,7 @@ Setup devices <br/>
 
 <p align="center">
 Setup devices <br/>
-<img src= https://i.imgur.com/xXxOfBP.png height="80%" width="80%" alt="Palo Alto OSPF"/>
+<img src= https://i.imgur.com/DTzkhg8.png height="80%" width="80%" alt="Palo Alto OSPF"/>
 <br />
 <br />
 
