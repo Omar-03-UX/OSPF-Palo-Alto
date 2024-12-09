@@ -20,7 +20,7 @@ In this hands-on lab, we will configure OSPF routing to allow devices from the i
 
 <p align="center">
 Setup devices <br/>
-<img src= https://i.imgur.com/TEqiUgg.png height="80%" width="80%" alt="Palo Alto OSPF"/>
+<img src= https://i.imgur.com/3EHE47y.png height="80%" width="80%" alt="Palo Alto OSPF"/>
 <br />
 <br />
 
@@ -30,23 +30,6 @@ Setup devices <br/>
 <br />
 <br />
 
-<p align="center">
-Setup devices <br/>
-<img src= https://i.imgur.com/kAeO2kz.png height="80%" width="80%" alt="Palo Alto OSPF"/>
-<br />
-<br />
-
-<p align="center">
-Setup devices <br/>
-<img src= https://i.imgur.com/oIiyJhs.png height="80%" width="80%" alt="Palo Alto OSPF"/>
-<br />
-<br />
-
-<p align="center">
-Setup devices <br/>
-<img src= https://i.imgur.com/0GAI0y1.png height="80%" width="80%" alt="Palo Alto OSPF"/>
-<br />
-<br />
 
 <p align="center">
 Setup devices <br/>
